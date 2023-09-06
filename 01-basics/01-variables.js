@@ -14,3 +14,17 @@ accountEmail = "hassan@goole.com"
 accountPassword = "1222122"
 accountCity = "lahore"
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
+
+let name = "mohsin"
+let age = 18
+let isLoggedIn = false
+// (types of datatypes )
+// number => 2 power 53
+// bigint when you have bigger website
+// string => ""
+// boolean true/false
+// null => standalone value
+// undefined => 
+// symbol => unique
+// object => 
+console.log(typeof age);

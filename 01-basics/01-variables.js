@@ -117,14 +117,32 @@ block scope and functional scope
 // memory in java script there is two types of memory in js
 // 1 stack(primitive) 2 heap(non primitive) 
 
-let myYoutubename = "mohsinhassandotcom"
-let anothername = myyoutubename
-anothername = "abcdotcom"
+// *let myYoutubename = "mohsinhassandotcom"
+// let anothername = myYoutubename
+// anothername = "abcdotcom"
 
-console.log (myYoutubename);
-console.log (anothername);
+// console.log (myYoutubename);
+// console.log (anothername);
 
-let userOne = {
-    email:"user@gogle.com",
-    upi:"user@ybl"
-}
+// let userOne = {
+    // email:"user@gogle.com",
+    // upi:"user@ybl"
+// }
+// let userTwo = userOne
+// userTwo.email ="mohsinhassandotcom"
+
+// console.log(userOne.email);
+// console.log(userTwo.email);
+ 
+// strings***********************
+// const userName = "mohsin"
+// const repoCount = 50
+// console.log(userName + repoCount); old prctice
+// console.log(`hello my name is ${userName} and my repo count is ${50}`);new practice
+// ******************nums and maths****************
+ 
+const min =10
+const max =20
+console.log(Math.floor(Math.random()*(max - min + 1)) + min)
+
+

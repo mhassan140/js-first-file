@@ -141,8 +141,22 @@ block scope and functional scope
 // console.log(`hello my name is ${userName} and my repo count is ${50}`);new practice
 // ******************nums and maths****************
  
-const min =10
-const max =20
-console.log(Math.floor(Math.random()*(max - min + 1)) + min)
+// const min =10
+// const max =20
+// console.log(Math.floor(Math.random()*(max - min + 1)) + min)
+
+
+                            //   dates
+// date is also a object of javascript
+// let mydate = new Date()
+// console.log(mydate.toString());
+// console.log(mydate.toJSON());
+// console.log(mydate.toDateString());
+// console.log(mydate.toISOString());
+// console.log(mydate.toLocaleString());
+// console.log(typeof mydate);                            
+
+let mycreatedDate = new Date(2023, 0, 23)
+console.log(mycreatedDate.toDateString());
 
 

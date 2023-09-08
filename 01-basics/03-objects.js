@@ -1,4 +1,4 @@
-// ****************(objects)***************
+// ****************(objects)***************object litrels
 // const fullName = "HASSAN"
 // const juser = {
 //     name : "mohsin",
@@ -28,3 +28,21 @@
 // }
 // console.log(juser.greetingTwo());
 // console.log(juser.greeting());
+
+// const tinderUser ={}
+
+// tinderUser.id ="abc123"
+// tinderUser.name = "mohsin"
+// tinderUser.isLoggedIn = false
+// // console.log (tinderUser);
+
+// const regularUser = {
+//     emial: "some@gmail.com",
+//     fullName: {
+//         userFullName:{
+//             firstName: "mohsin",
+//             lastName: "hassan",
+//         }
+//     }
+// }
+// console.log (regularUser.fullName.userFullName.firstName);

@@ -110,6 +110,7 @@ block scope and functional scope
 //    name: "mohsin",
 //    age: "30",
 // }                 this is Object
+
 // const myFunction = function (){
     // console.log ("hello world");
 // }
@@ -156,7 +157,9 @@ block scope and functional scope
 // console.log(mydate.toLocaleString());
 // console.log(typeof mydate);                            
 
-let mycreatedDate = new Date(2023, 0, 23)
-console.log(mycreatedDate.toDateString());
+// let mycreatedDate = new Date(2023, 0, 23)
+// console.log(mycreatedDate.toDateString())
+
+
 
 

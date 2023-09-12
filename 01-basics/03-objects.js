@@ -1,4 +1,4 @@
-// ****************(objects)***************object litrels
+// // ****************(objects)***************object litrels
 // const fullName = "HASSAN"
 // const juser = {
 //     name : "mohsin",

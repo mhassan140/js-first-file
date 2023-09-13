@@ -55,13 +55,13 @@
 // console.log (obj3)                       then console
 
 // de structures objects
-const course= {
-    coursename : "js in urdu",
-    coursefee : "999",
-    courseInstructor: "hitesh"
-}
-const {courseInstructor} = course
-console.log(courseInstructor);
+// const course= {
+//     coursename : "js in urdu",
+//     coursefee : "999",
+//     courseInstructor: "hitesh"
+// }
+// const {courseInstructor} = course
+// console.log(courseInstructor);
 
 
 // json   stands for "java script objects notation"

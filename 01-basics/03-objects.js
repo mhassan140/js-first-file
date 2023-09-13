@@ -46,3 +46,31 @@
 //     }
 // }
 // console.log (regularUser.fullName.userFullName.firstName);
+
+// const obj1 = {1 : "a" , 2: "b"}    first object
+// const obj2 = {3 : "a" , 4: "b" }    second object
+// const obj3 = { obj1,obj2 }      third object
+// const obj3 = Object.assign({}, obj1,obj2) merge them together 
+// const obj3 = {...obj1,...obj2} (spread meathod) this is second method to merge the object
+// console.log (obj3)                       then console
+
+// de structures objects
+const course= {
+    coursename : "js in urdu",
+    coursefee : "999",
+    courseInstructor: "hitesh"
+}
+const {courseInstructor} = course
+console.log(courseInstructor);
+
+
+// json   stands for "java script objects notation"
+// some api in array and objects/
+// {
+// "name" : "mohsin"
+// "courseName": "js in hindi"
+// "courseFee": "free"
+// }
+
+
+

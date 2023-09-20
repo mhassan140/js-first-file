@@ -22,11 +22,11 @@
 
 
 // iife immediately invoked funtion expression
-// NAMED IIFE
-(function chai (){
-    console.log(`DB CONNECTED`);
-})();
+// // NAMED IIFE
+// (function chai (){
+//     console.log(`DB CONNECTED`);
+// })();
 
-( (name) => {
-    console.log(`DB CONNECTED TWO ${name}`);
-} )('mohsin')
+// ( (name) => {
+//     console.log(`DB CONNECTED TWO ${name}`);
+// } )('mohsin')
